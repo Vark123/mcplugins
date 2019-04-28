@@ -1,0 +1,13 @@
+name: EpicRPG
+version: 0.4
+main: me.Vark123.EpicRPG.Main
+author: Vark123
+
+commands:
+  staty:
+  chat:
+  chatclear:
+  horse:
+  epicrpg:
+  level:
+    aliases: [lvl, poziom]
